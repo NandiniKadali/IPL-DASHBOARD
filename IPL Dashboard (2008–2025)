@@ -1,0 +1,35 @@
+**IPL Dashboard (2008–2025)
+
+This interactive Excel dashboard provides a comprehensive analysis of Indian Premier League (IPL) data from 2008 to 2025. It is designed to deliver quick insights into team performance, match outcomes, player achievements, and venue statistics using dynamic visualizations and slicers.
+
+**Key Features:**
+
+* **Season Filter (Slicer):**
+  Enables users to filter the entire dashboard by individual IPL seasons, allowing focused year-wise analysis.
+
+* **Title Winners Overview:**
+  A treemap visualization showing the distribution of IPL titles among teams. It highlights dominant franchises such as Chennai Super Kings and Mumbai Indians, enabling quick comparison of championship success.
+
+* **Toss Decision Analysis:**
+  A donut chart representing the proportion of teams choosing to bat or field after winning the toss. This helps identify overall toss strategy trends across seasons.
+
+* **Man of the Match Leaders:**
+  A bar chart displaying players with the highest number of “Man of the Match” awards, showcasing top individual performers like AB de Villiers, Chris Gayle, and Virat Kohli.
+
+* **Match Winners by Team:**
+  A clustered column chart illustrating the total number of matches won by each team since 2008, segmented by toss decision (bat/field). This provides insight into team performance and match strategies.
+
+* **Top Venues Analysis:**
+  A horizontal bar chart highlighting venues with the highest number of matches hosted, along with toss decision distribution at each venue. It helps understand location-based match patterns.
+
+**Tools & Techniques Used:**
+
+* Pivot Tables and Pivot Charts for aggregation and visualization
+* Slicers for interactivity and filtering
+* Excel formulas (e.g., VLOOKUP/XLOOKUP) for data mapping
+* Data cleaning and transformation for consistency
+
+**Purpose:**
+This dashboard enables users to analyze IPL trends, compare team and player performance, and derive strategic insights efficiently through a visually intuitive interface.
+
+https://onedrive.live.com/:x:/g/personal/d90577219af4e3e1/IQAokUsVOhjxT5p2BEd1pJqeAT2aWx0_rCwHDlYpP2MYN1s?rtime=68zLGGad3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9kOTA1NzcyMTlhZjRlM2UxL0lRQW9rVXNWT2hqeFQ1cDJCRWQxcEpxZUFUMmFXeDBfckN3SERsWXBQMk1ZTjFzP2U9UENzQXZT
